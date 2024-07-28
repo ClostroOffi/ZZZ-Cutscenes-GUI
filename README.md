@@ -10,14 +10,6 @@
     <img src="https://shields.io/badge/version-v1.0-blue"></br>
 </p>
 
-## Screenshots:
-<details>
-  <summary></summary>
-  <img src="github/images/main.png" width="550px">
-  <img src="github/images/settings.png" width="550px">
-  <img src="github/images/animation_low.gif">
-</details>
-
 ## Usage:
 1. Download archive from [Releases](https://github.com/Clostro/ZZZ-Cutscenes-GUI/releases/latest)
 2. Unzip it to a convenient location.
