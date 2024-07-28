@@ -7,7 +7,7 @@
     <strong> User Interface for <a href="https://github.com/Clostro/ZZZ-Cutscenes">ZenlessZoneZero Cutscenes Demuxer</a></strong>
 </p>
 <p align="center">
-    <img src="https://shields.io/badge/version-v0.6.0-blue"></br>
+    <img src="https://shields.io/badge/version-v1.0-blue"></br>
 </p>
 
 ## Screenshots:
