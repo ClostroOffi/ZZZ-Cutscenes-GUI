@@ -8,7 +8,6 @@
 </p>
 <p align="center">
     <img src="https://shields.io/badge/version-v0.6.0-blue"></br>
-    <a href="#donate"><img src="https://shields.io/badge/💲-Support_the_Project-2ea043"></a>
 </p>
 
 ## Screenshots:
