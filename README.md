@@ -43,22 +43,3 @@ Add the `ffmpeg.exe` file next to the exe file you are running.
 
 <hr>
 
-#### 💲Donate
-<table>
-  <tr>
-    <td>
-       <img width="18px" src="https://www.google.com/s2/favicons?domain=https://donatello.to&sz=256">
-    </td>
-    <td>
-      <a href=""></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <img width="18px" src="https://www.google.com/s2/favicons?domain=https://www.donationalerts.com&sz=256">
-    </td>
-    <td>
-      <a href=""></a>
-    </td>
-  </tr>
-</table>
