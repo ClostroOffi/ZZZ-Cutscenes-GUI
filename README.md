@@ -4,7 +4,7 @@
     <img src="github/images/icons/UI/ui-1.png" height="200px" align="center">
 </p>
 <p align="center">
-    <strong> User Interface for <a href="https://github.com/ToaHartor/GI-cutscenes">Genshin Cutscenes Demuxer</a></strong>
+    <strong> User Interface for <a href="https://github.com/Clostro/ZZZ-Cutscenes">ZenlessZoneZero Cutscenes Demuxer</a></strong>
 </p>
 <p align="center">
     <img src="https://shields.io/badge/version-v0.6.0-blue"></br>
@@ -20,9 +20,9 @@
 </details>
 
 ## Usage:
-1. Download archive from [Releases](https://github.com/SuperZombi/GICutscenesUI/releases/latest)
+1. Download archive from [Releases](https://github.com/Clostro/ZZZ-Cutscenes-GUI/releases/latest)
 2. Unzip it to a convenient location.
-3. Start ```GICutscenesUI.exe```
+3. Start ```ZZZCutscenesUI.exe```
 
 ## FAQ
 
@@ -30,7 +30,7 @@
 `[Game directory]\Genshin Impact game\GenshinImpact_Data\StreamingAssets\VideoAssets\StandaloneWindows64`
 
 ### I have an error when demuxing files
-Try to update your [GI-cutscenes script](https://github.com/ToaHartor/GI-cutscenes/releases) to the latest version.<br>
+Try to update your [GI-cutscenes script](https://github.com/Clostro/ZZZ-cutscenes/releases) to the latest version.<br>
 Specify the path to the `GI-cutscenes.exe` in the settings.
 
 ### I have an error in merging video
@@ -50,7 +50,7 @@ Add the `ffmpeg.exe` file next to the exe file you are running.
        <img width="18px" src="https://www.google.com/s2/favicons?domain=https://donatello.to&sz=256">
     </td>
     <td>
-      <a href="https://donatello.to/super_zombi">Donatello</a>
+      <a href=""></a>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Add the `ffmpeg.exe` file next to the exe file you are running.
        <img width="18px" src="https://www.google.com/s2/favicons?domain=https://www.donationalerts.com&sz=256">
     </td>
     <td>
-      <a href="https://www.donationalerts.com/r/super_zombi">Donation Alerts</a>
+      <a href=""></a>
     </td>
   </tr>
 </table>
